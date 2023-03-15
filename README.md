@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<img src="public/tela.png">
+<img src="public/cep.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
